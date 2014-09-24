@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="landform" tilewidth="16" tileheight="16">
+  <image source="landform2.png" trans="000000" width="96" height="96"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJydlolqwzAQRGVDYkPaQtpC8v9fWhkyMDx2JKeCIV7QHrNX1Nr/zlJgtd939dLZAN0/vveB3mfHl92XvE7kmT65/HT8mh3J+wsu834zeYE+/Xg8LisvSVaOzvDZBnwY36XjivujfPAkPozv1vEBPuS3Bz6jeMhHeTsruw+Pf0U83q/qWf06En/Xdz6M3+dP34KfEX/1SjVznFfPP/m737QXqj1Q+Un599w5X/pJc8H8uk/nzn6b9SnjZL5HOV0GerTv8QnO33lzvlx3BVLd6ZP1kX3Wi30u6Mz2F/nQH+cn7XPF4nndWp4H7u/Uf9zn8sN8Jz7Vviafap+/y+fM/1O138gn1SfZ1fF6bG1eH9rhnKQ3BP3O6sP4+Mao3h5+P70nyIfx+Hyk3eL3q3ppDrnvCc35Yfve8W1+zu7h2Tw7jvgeHU9wneHQ/QPLIxSp
+  </data>
+ </layer>
+ <layer name="layer_1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxkwAzHLqD2j9ozaM2rPqD2j9kABJxBz0cGeUTAKqAkAr/YAfQ==
+  </data>
+ </layer>
+ <layer name="layer_2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYBcMZSAKxFB3skQdiBTL0AQA3UABz
+  </data>
+ </layer>
+</map>
