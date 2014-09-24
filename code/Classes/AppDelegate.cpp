@@ -35,6 +35,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
 	std::vector<std::string> searchPath;
 	searchPath.push_back("music");
 	searchPath.push_back("sounds");
+	searchPath.push_back("test");
 	// set searching path
 	FileUtils::getInstance()->setSearchPaths(searchPath);
 
